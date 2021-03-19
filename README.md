@@ -7,14 +7,14 @@
 
 <br />
 
-<img src="https://github.com/MustansirZia/mustansir.npx/raw/main/gifs/cover.png" />
+<img src="https://github.com/MustansirZia/mustansir.npx/raw/main/assets/cover.png" />
 
 <br />
 <br />
 
 # Demo.
 
-<img src="https://github.com/MustansirZia/mustansir.npx/raw/main/gifs/terminal.png" />
+<img src="https://github.com/MustansirZia/mustansir.npx/raw/main/assets/terminal.png" />
 
 <br />
 <br />
@@ -50,7 +50,9 @@ You can use this repository to make your name as an npx command! To do this foll
 -   Profit! Make everyone else think you're cool by telling them to type `npx <PACKAGE_NAME>` where `<PACKAGE_NAME` is the `name` field in your `package.json`.
 -   Show some love and star this repo. :)
 
-<img src="https://giphy.com/embed/62PP2yEIAZF6g" width="480" height="273" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<br />
+
+![Cool gif](https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif)
 
 <br />
 <br />
