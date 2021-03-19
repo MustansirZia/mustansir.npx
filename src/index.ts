@@ -57,7 +57,7 @@ const go = async (): Promise<void> => {
 
         log(
             title(
-                terminalLink(`Follow Me on Twitter! ${emoji.airplane}`, 'https://twitter.com/' + config.twitterHandle),
+                terminalLink(`Follow Me on Twitter! ${emoji.airplane}`, `https://twitter.com/${config.twitterHandle}`),
             ),
         );
 
