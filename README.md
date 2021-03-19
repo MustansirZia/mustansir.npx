@@ -1,6 +1,6 @@
 # mustansir.npx
 
-[![npm version](https://badge.fury.io/js/mustansir.svg)](https://badge.fury.io/js/mustansir.npx)
+[![npm version](https://badge.fury.io/js/mustansir.svg)](https://badge.fury.io/js/mustansir)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 > My name "mustansir" as an npx command 🚀.
