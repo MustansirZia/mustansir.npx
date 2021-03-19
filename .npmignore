@@ -5,4 +5,4 @@ tsconfig.json
 .eslintrc.js
 .prettierrc.js
 yarn.lock
-gifs
+assets
