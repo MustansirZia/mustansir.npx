@@ -1,10 +1,8 @@
 {
     "name": "mustansir",
-    "version": "1.2.3",
+    "version": "1.2.8",
     "description": "My name \"mustansir\" as an npx command.",
-    "bin": {
-        "mustansir": "lib/index.js"
-    },
+    "bin": "lib/index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/MustansirZia/mustansir.npx"

@@ -1,0 +1,8 @@
+# Ones we don't want published to npm.
+src/*
+.vscode
+tsconfig.json
+.eslintrc.js
+.prettierrc.js
+yarn.lock
+gifs

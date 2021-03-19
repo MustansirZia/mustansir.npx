@@ -1190,6 +1190,16 @@ ms@^2.1.1:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.3.tgz#574c8138ce1d2b5861f0b44579dbadd60c6615b2"
   integrity sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==
 
+mustansir@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/mustansir/-/mustansir-1.2.2.tgz#4e9a3fb422138d701b47d5b311d90bfceb762e2a"
+  integrity sha512-KuR79Tcei5l5EeBqGu8vPii5yurpipffsReaW4hN8jZgbYIYqK+IHWo0zzjHa24Ny0gK7/udhgOEqGbSUsaNlA==
+  dependencies:
+    "@octokit/rest" "^18.3.5"
+    chalk "^4.1.0"
+    node-emoji "^1.10.0"
+    terminal-link "^2.1.1"
+
 mute-stream@0.0.8:
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/mute-stream/-/mute-stream-0.0.8.tgz#1630c42b2251ff81e2a283de96a5497ea92e5e0d"

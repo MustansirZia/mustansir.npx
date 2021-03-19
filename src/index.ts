@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import { Octokit } from '@octokit/rest';
 import chalk from 'chalk';
 import terminalLink from 'terminal-link';
@@ -33,16 +35,16 @@ const go = async (): Promise<void> => {
 
         log(title("Things That I've Built"));
 
+        const getRepoBody = (repo: typeof repos.items[0], index: number): string =>
+            `${index + 1}) ${terminalLink(repo.name, repo.html_url)}\n${emojify(repo.description)}\nStars: ${
+                repo.stargazers_count
+            } ${emoji.star}`;
+
         log(
             body(
                 repos.items
-                    .slice(0, 10)
-                    .map(
-                        (repo, index) =>
-                            `${index + 1}) ${terminalLink(repo.name, repo.html_url)}\n${emojify(
-                                repo.description,
-                            )}\nStars: ${repo.stargazers_count} ${emoji.star}`,
-                    )
+                    .slice(0, config.topRepos)
+                    .map(getRepoBody)
                     .join('\n\n'),
             ),
         );
