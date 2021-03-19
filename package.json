@@ -1,0 +1,48 @@
+{
+    "name": "mustansir",
+    "version": "1.0.0",
+    "description": "My name \"mustansir\" as an npx command.",
+    "bin": "node lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MustansirZia/mustansir.npx"
+    },
+    "scripts": {
+        "start": "nodemon src/index.ts",
+        "build": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Mustansir Zia <mustansir29@hotmail.com>",
+    "license": "MIT",
+    "private": false,
+    "keywords": [
+        "cli",
+        "npx",
+        "portfolio",
+        "command",
+        "mustansir",
+        "challenge",
+        "npm",
+        "typescript",
+        "terminal"
+    ],
+    "devDependencies": {
+        "@types/node": "^14.14.35",
+        "@types/node-emoji": "^1.8.1",
+        "@typescript-eslint/eslint-plugin": "^2.10.0",
+        "@typescript-eslint/parser": "^2.10.0",
+        "eslint": "^6.7.2",
+        "eslint-config-prettier": "^6.7.0",
+        "eslint-plugin-prettier": "^3.1.1",
+        "nodemon": "^2.0.7",
+        "prettier": "^1.19.1",
+        "ts-node": "^9.1.1",
+        "typescript": "^3.7.3"
+    },
+    "dependencies": {
+        "@octokit/rest": "^18.3.5",
+        "chalk": "^4.1.0",
+        "node-emoji": "^1.10.0",
+        "terminal-link": "^2.1.1"
+    }
+}
