@@ -1,14 +1,15 @@
 {
     "name": "mustansir",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "description": "My name \"mustansir\" as an npx command.",
-    "bin": "node lib/index.js",
+    "bin": "./lib/index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/MustansirZia/mustansir.npx"
     },
     "scripts": {
         "start": "nodemon src/index.ts",
+        "prepublish": "npm run build --scripts-prepend-node-path",
         "build": "tsc",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
