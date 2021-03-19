@@ -1,9 +1,9 @@
 {
     "name": "mustansir",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "description": "My name \"mustansir\" as an npx command.",
     "bin": {
-        "mustansir": ".lib/index.js"
+        "mustansir": "lib/index.js"
     },
     "repository": {
         "type": "git",
