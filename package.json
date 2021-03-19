@@ -1,6 +1,6 @@
 {
     "name": "mustansir",
-    "version": "1.2.8",
+    "version": "1.3.0",
     "description": "My name \"mustansir\" as an npx command.",
     "bin": "lib/index.js",
     "repository": {

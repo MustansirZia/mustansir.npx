@@ -7,7 +7,9 @@
 
 <br />
 
-<img src="gifs/terminal.gif" width="50%" />
+<img src="https://github.com/MustansirZia/mustansir.npx/raw/main/gifs/terminal.png" />
+
+<img src="https://github.com/MustansirZia/mustansir.npx/raw/main/gifs/terminal.gif" />
 
 <br />
 <br />
