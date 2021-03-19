@@ -47,12 +47,12 @@ You can use this repository to make your name as an npx command! To do this foll
 -   Inside the same file, change `version` field to `1.0.0`.
 -   Login into your npm account using the cli `npm login`. (You might want to create an npm account if you don't have one)
 -   Publish your npx command using `npm publish`.
--   Profit! Make everyone else think you're cool by telling them to type `npx <PACKAGE_NAME>` where `<PACKAGE_NAME` is the `name` field in your `package.json`.
+-   Make everyone else think you're cool by telling them to type `npx <YOUR_NAME>` where `<YOUR_NAME` is the `name` field in your `package.json`.
 -   Show some love and star this repo. :)
 
 <br />
 
-![Cool gif](https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif)
+![Cool GIF](https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif)
 
 <br />
 <br />
