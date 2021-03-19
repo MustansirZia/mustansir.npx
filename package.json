@@ -1,8 +1,8 @@
 {
     "name": "mustansir",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "My name \"mustansir\" as an npx command.",
-    "bin": "./lib/index.js",
+    "bin": "node ./lib/index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/MustansirZia/mustansir.npx"
@@ -43,6 +43,7 @@
     "dependencies": {
         "@octokit/rest": "^18.3.5",
         "chalk": "^4.1.0",
+        "mustansir": "^1.2.0",
         "node-emoji": "^1.10.0",
         "terminal-link": "^2.1.1"
     }
