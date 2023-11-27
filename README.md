@@ -21,7 +21,7 @@
 
 # Why?
 
-I created this command as sort of my portfolio that can be accessed from any terminal with Node.js. I was very curious to see if such a thing could be accomplished and it turned out to be quite easy in the end.
+I created this command as sort of my portfolio that can be accessed from any terminal with Node.js. I was very curious to see if such a thing could be accomplished and it turned out to be quite easy at the end.
 
 <br />
 <br />
